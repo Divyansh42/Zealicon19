@@ -122,11 +122,6 @@ public class EventDetailActivity extends AppCompatActivity {
 
 
                     List<EventData> oldArrayList = gson.fromJson(bookmarked_events, type);
-                    for (EventData e : oldArrayList) {
-                        if (e.getId().equals(eventData.getId())) {
-                            oldArrayList.remove(e);
-                        }
-                    }
                     // unflag this event using event id to not show in ui
                     s.edit().putInt(eventData.getId(), 0).apply();
                     // add this event object to array list of bookmarks

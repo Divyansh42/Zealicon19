@@ -75,7 +75,7 @@ public class TeamAdapter extends RecyclerView.Adapter<TeamAdapter.TeamViewHolder
       else if(team.getImgurl().equals("satwik_singh"))
         holder.profileImg.setImageResource(R.drawable.satwik_singh);
       else if(team.getImgurl().equals("dhruv_srivastav"))
-        holder.profileImg.setImageResource(R.drawable.dhruv_srivastava);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       else if(team.getImgurl().equals("aditya_rawat"))
         holder.profileImg.setImageResource(R.drawable.aditya_rawat);
       else if(team.getImgurl().equals("ashutosh_atri"))
@@ -89,13 +89,13 @@ public class TeamAdapter extends RecyclerView.Adapter<TeamAdapter.TeamViewHolder
       else if(team.getImgurl().equals("aabhas_pradhan"))
         holder.profileImg.setImageResource(R.drawable.abhas_pradhan);
       else if(team.getImgurl().equals("ankit_gupta"))
-        holder.profileImg.setImageResource(R.drawable.ankit_gupta);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       else if(team.getImgurl().equals("ishan_dalela"))
         holder.profileImg.setImageResource(R.drawable.ishan_dalela);
       else if(team.getImgurl().equals("rishabh_handa"))
-        holder.profileImg.setImageResource(R.drawable.rishabh_handa);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       else if(team.getImgurl().equals("hitwik_singh"))
-        holder.profileImg.setImageResource(R.drawable.hitwik_singh);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       else if(team.getImgurl().equals("utkarsh_mishra"))
         holder.profileImg.setImageResource(R.drawable.utkarsh_mishra);
       else if(team.getImgurl().equals("sujata_bajaj"))
@@ -108,11 +108,11 @@ public class TeamAdapter extends RecyclerView.Adapter<TeamAdapter.TeamViewHolder
       else if(team.getImgurl().equals("prashant"))
         holder.profileImg.setImageResource(R.drawable.prashant);
       else if(team.getImgurl().equals("vibhav_chaturvedi"))
-        holder.profileImg.setImageResource(R.drawable.vibhav_chaturvedi);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       else if(team.getImgurl().equals("vinayak_bansal"))
-        holder.profileImg.setImageResource(R.drawable.vinayak_bansal);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       else if(team.getImgurl().equals("sarvagya_singh")){
-        holder.profileImg.setImageResource(R.drawable.sarvagya_singh);
+        holder.profileImg.setImageResource(R.drawable.aavatar);
       }
 
 

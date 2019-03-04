@@ -80,8 +80,8 @@ public class HomeFragment extends Fragment {
         String todaysEventString="";
         switch (today) {
             case 3:
-            case 4:
             case 5:
+            case 4:
                 todaysEventString = s.getString("day1events", "[]");
                 break;
             case 6:
@@ -103,9 +103,10 @@ public class HomeFragment extends Fragment {
             Date date;
             for (EventData e : todayList) {
                 date = formatter.parse(e.getFullDate()+" "+ e.getTiming());
-                if (date.getTime() - calendar.getTimeInMillis() < 3600000*4 && date.getTime() - calendar.getTimeInMillis() > 0) {
+               /* if (date.getTime() - calendar.getTimeInMillis() < 3600000*4 && date.getTime() - calendar.getTimeInMillis() > 0) {
                     upcomingEventArrayList.add(e);
-                }
+                }*/
+                upcomingEventArrayList.add(e);
             }
         } catch (ParseException e) {
             e.printStackTrace();

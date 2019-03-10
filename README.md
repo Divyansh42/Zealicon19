@@ -12,9 +12,8 @@ Zealicon'19 has the following features:
 - Bookmark your favourite events and set reminders.
 - Internet connectivity is only required during the first time of app launch.
 
-![Splash Screen](https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp1.jpeg)
-![Home Screen](https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp2.jpeg)
-![Events Schedule Screen](https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp3.jpeg)
-![Events Detail Screen](https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp4.jpeg)
-![Registration Screen](https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp5.jpeg)
-
+<img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp1.jpeg" alt="Splash Screen" width="300" height="500"/>
+<img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp2.jpeg" alt="Home Screen" width="300" height="500"/>
+<img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp3.jpeg" alt="Events Schedule Screen" width="300" height="500"/>
+<img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp4.jpeg" alt="Event Details Screen" width="300" height="500"/>
+<img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp5.jpeg" alt="Registration Screen" width="300" height="500"/>

@@ -12,6 +12,9 @@ Zealicon'19 has the following features:
 - Bookmark your favourite events and set reminders.
 - Internet connectivity is only required during the first time of app launch.
 
+Playstore link: https://play.google.com/store/apps/details?id=com.jss.abhijeet.zealicon
+
+
 <img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp1.jpeg" alt="Splash Screen" width="300" height="500"/>
 <img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp2.jpeg" alt="Home Screen" width="300" height="500"/>
 <img src="https://github.com/Divyansh42/Zealicon19/blob/master/screenshots/zealapp3.jpeg" alt="Events Schedule Screen" width="300" height="500"/>
